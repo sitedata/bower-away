@@ -16,7 +16,7 @@
     "execa": "^0.8.0",
     "lodash": "^4.17.4",
     "meow": "^3.7.0",
-    "update-notifier": "^2.2.0",
+    "update-notifier": "^4.0.0",
     "which": "^1.2.14"
   },
   "engines": {
